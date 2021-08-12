@@ -1,5 +1,9 @@
 .scrollspy {
     position: relative;
-    height: 350px;
+    height: 700px;
     overflow: auto;
+  }
+
+  body {
+    position: relative;
   }
