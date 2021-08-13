@@ -7,3 +7,5 @@
   body {
     position: relative;
   }
+
+  body { padding-top: 70px; }
